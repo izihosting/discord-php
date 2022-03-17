@@ -1,0 +1,13 @@
+{
+    "name": "izihosting/discord",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Oskar Nizioł",
+            "email": "oskarniziol@gmail.com"
+        }
+    ],
+    "require": {
+        "team-reflex/discord-php": "dev-main"
+    }
+}
